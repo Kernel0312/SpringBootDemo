@@ -13,8 +13,7 @@ public class WebApplication {
         SpringApplication.run(WebApplication.class, args);
         System.out.println("master commit");
         System.out.println("dev branthes modify");
-        System.out.println("test branthes modify");
-        System.out.println("添加分支");
+        System.out.println("不知道干了啥");
     }
 
 }
