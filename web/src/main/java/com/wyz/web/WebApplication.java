@@ -14,6 +14,7 @@ public class WebApplication {
         System.out.println("master commit");
         System.out.println("dev branthes modify");
         System.out.println("test branthes modify");
+        System.out.println("添加分支");
     }
 
 }
